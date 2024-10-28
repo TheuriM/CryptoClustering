@@ -1,1 +1,3 @@
 # CryptoClustering
+CryptoClustering Project
+This project uses K-Means clustering and Principal Component Analysis (PCA) to analyze and group cryptocurrencies based on their price change patterns over various time periods. The analysis starts with standardizing the data, followed by determining the optimal number of clusters (k) using the elbow method. It explores clustering results using both the original scaled data and PCA-transformed data. Visualizations are generated to illustrate the differences and reveal how PCA helps simplify the dataset while retaining essential information. 
